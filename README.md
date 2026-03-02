@@ -1,2 +1,0 @@
-# Analytical-Project
-Analytical Project
